@@ -1,0 +1,2 @@
+.header .logo {position: absolute;width: 194px; height: 82px; background: url(../img/mumiq-sprites.png) no-repeat 0 0 !important; top: -6px;left: 50%; margin-left: -97px;}
+.footer .logo {background: url(../img/mumiq-sprites.png) no-repeat 0 -99px !important; width: 85px; height: 37px;margin-top:15px;}
